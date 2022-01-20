@@ -1,5 +1,3 @@
 
 psycopg2-binary==2.9.3
-python-dateutil==2.8.2
 requests==2.27.1
-smartsheet-python-sdk==2.105.1
