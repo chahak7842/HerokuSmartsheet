@@ -1,1 +1,1 @@
-web: gunicorn smartsheetData:app --log-file -
+web: gunicorn smartsheetData.wsgi
